@@ -1,2 +1,6 @@
 Fichero de prueba
+<<<<<<< HEAD
 EMBUDOS
+=======
+Buuuuu
+>>>>>>> rama2
